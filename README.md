@@ -1,3 +1,3 @@
-# These are my notes about sql
-## I used Microsoft's Northwind sample database for exercises
-## Notebooks are from Azure data studio
+# Notes about sql
+## Microsoft's Northwind sample database is used for exercises
+## Notebooks are from Azure Data Studio
